@@ -21,3 +21,6 @@
     "graphql": "^15.8.0"
   }
 }
+
+
+mongodb+srv://briankeithallison:L00ney4WorkEmail@cluster0.rtfgsz8.mongodb.net/googlebooks?retryWrites=true&w=majority
